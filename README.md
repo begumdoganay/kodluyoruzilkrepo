@@ -1,12 +1,11 @@
-# Kodluyoruz Ilk Repo
+odluyoruz Ilk Repo
+Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
-Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
+Installation
+https://github.com/merve-celik16/kodluyoruzilkrepo.git
 
-![github](github.png)
+Bağlantı ve Resim Eklemek
+Kodluyoruz Sayfamız
 
-## Installation
-
-Öncelikle projeyi clonelayın.
-
-```bash
-git clone https://github.com/[KULLANICI_ADINIZ]/kodluyoruzilkrepo.git
+Kodluyoruz Logo
+https://raw.githubusercontent.com/Kodluyoruz/taskforce/git/git/markdown-nedir-nasil-kullaniriz-/figures/kodluyoruz_logo.jpg
